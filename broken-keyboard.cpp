@@ -43,6 +43,6 @@ int main(){
 
     for(int i=0;i<t;i++)cout << result[i] << endl;		//printing result
 
-  }										//closing if to check 't'
+  }	 								//closing if to check 't'
   return 0;
 }										//closing main()
