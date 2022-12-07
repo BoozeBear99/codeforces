@@ -28,7 +28,7 @@ int main(){
   long int result[t][2];									//2D Array to store output
 
   for(long int i=0;i<t;i++){									//initializing array
-	for(int j=0;j<2;j++)result[i][j]=0;
+	for(int j=0;j<2;j++)result[i][j]=0; 
   }
 
   if(t>=1 && t<=100){				
